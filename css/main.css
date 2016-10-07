@@ -23,7 +23,7 @@ body {
 }
 
 ul {
-  margin: 0.5rem;
+  margin: .5rem;
 }
 
 li {
@@ -34,7 +34,7 @@ li {
 a {
   color: #0074d9;
   text-decoration: none;
-  padding: 0.5rem;
+  padding: .5rem;
 }
 
 a:hover {
