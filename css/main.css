@@ -19,6 +19,7 @@ html {
 
 body {
   margin: 0;
+  text-align: center;
 }
 
 ul {
@@ -45,4 +46,15 @@ a:hover {
 
 header {
   background-color: #e2e2e2;
+}
+
+@media only screen and (min-width: 38em) {
+
+  h1 {
+    text-align: left;
+  }
+
+  ul {
+    text-align: right;
+  }
 }
